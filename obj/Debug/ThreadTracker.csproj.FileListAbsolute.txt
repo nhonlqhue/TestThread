@@ -5,3 +5,10 @@ C:\Users\USER\source\repos\ThreadTracker\bin\Debug\ThreadTracker.exe
 C:\Users\USER\source\repos\ThreadTracker\bin\Debug\ThreadTracker.pdb
 C:\Users\USER\source\repos\ThreadTracker\obj\Debug\ThreadTracker.exe
 C:\Users\USER\source\repos\ThreadTracker\obj\Debug\ThreadTracker.pdb
+E:\Project\TestThread\bin\Debug\ThreadTracker.exe.config
+E:\Project\TestThread\bin\Debug\ThreadTracker.exe
+E:\Project\TestThread\bin\Debug\ThreadTracker.pdb
+E:\Project\TestThread\obj\Debug\ThreadTracker.csprojAssemblyReference.cache
+E:\Project\TestThread\obj\Debug\ThreadTracker.csproj.CoreCompileInputs.cache
+E:\Project\TestThread\obj\Debug\ThreadTracker.exe
+E:\Project\TestThread\obj\Debug\ThreadTracker.pdb

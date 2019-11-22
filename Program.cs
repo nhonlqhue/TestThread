@@ -60,7 +60,7 @@ namespace ThreadTracker
         }
         private static void Test(int id)
         {
-            List<int> lst = new List<int>() { 1, 2 };
+            List<int> lst = new List<int>() { 1, 2, 3 };
             while (true)
             {
                 foreach (var i in lst)
@@ -69,7 +69,7 @@ namespace ThreadTracker
                     thread.Thread.Name = i.ToString();
                     thread.Thread.Start();
                 }
-                Task delay =  Task.Delay(2*60000);
+                Task delay = Task.Delay(2 * 60000);
                 delay.Wait();
             }
         }
