@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\ThreadTracker\obj\Debug\ThreadTracker.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\ThreadTracker\obj\Debug\ThreadTracker.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\ThreadTracker\bin\Debug\ThreadTracker.exe.config
+C:\Users\USER\source\repos\ThreadTracker\bin\Debug\ThreadTracker.exe
+C:\Users\USER\source\repos\ThreadTracker\bin\Debug\ThreadTracker.pdb
+C:\Users\USER\source\repos\ThreadTracker\obj\Debug\ThreadTracker.exe
+C:\Users\USER\source\repos\ThreadTracker\obj\Debug\ThreadTracker.pdb
