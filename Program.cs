@@ -69,7 +69,7 @@ namespace ThreadTracker
                     thread.Thread.Name = i.ToString();
                     thread.Thread.Start();
                 }
-                Task delay = Task.Delay(1*60000);
+                Task delay = Task.Delay(100*60000);
                 delay.Wait();
             }
         }
