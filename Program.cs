@@ -69,6 +69,7 @@ namespace ThreadTracker
                     thread.Thread.Name = i.ToString();
                     thread.Thread.Start();
                 }
+                //Nhon
                 Task delay = Task.Delay(19 * 60000);
                 delay.Wait();
             }
